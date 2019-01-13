@@ -1,0 +1,1 @@
+Da ich wie bei Tutorial 10 hier das problem habe dass ich keine Datenbank erstellen kann, (ich habe noch immer nicht herausgefunden was das Problem ist) so habe ich mich dazu entschiedenen Ihnen dieses ReadMe sowohl die zwei sql query's abzugeben sodass ich wenigstens den einen Punkt für die abgabe kriege.
